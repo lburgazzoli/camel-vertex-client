@@ -1,0 +1,1 @@
+# camel-vertex-client
